@@ -1,4 +1,4 @@
-# Mastering Web Developer Interview Code
+# Mastering Web Developer Interview Code 
 This is the repository for my course Mastering Web Developer Interview Code. The full course is available on [LinkedIn Learning](http://bit.ly/2j2L8RN) and [Lynda.com](https://www.lynda.com/Web-Development-tutorials/Mastering-Web-Developer-Interview-Code/580663-2.html)
 
 [![Mastering Web Developer Interview Code](https://media-exp2.licdn.com/media-proxy/ext?w=1200&h=675&f=n&hash=XutUSjKycXac0vqSZuNUXGoUHOg%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6plxVUzgUv5K_PrkC9q0RIUJDPBy-kUyWs_NafZX_pf8HcZLSiol4TcSoJlAA7feevRznjFI69LcLmY4Yx3A)](http://bit.ly/2j2L8RN)
